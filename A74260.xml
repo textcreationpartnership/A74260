@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>We have brought our hoggs to a fair market. Or, The iron age turned into gold. See they obey our Gracious Soveraigns words, presto they'r gone; and now these wicked rogues look like the withered face of an old hagg, but with three teeth, like to a triple gagg, never published by any pen before. By J.A. A lover of his countryes welfare.</title>
+            <author>J. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74260</idno>
+            <idno type="STC">Wing W1179</idno>
+            <idno type="STC">Thomason E1040_12</idno>
+            <idno type="STC">ESTC R207907</idno>
+            <idno type="EEBO-CITATION">99866925</idno>
+            <idno type="PROQUEST">99866925</idno>
+            <idno type="VID">168949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168949)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>We have brought our hoggs to a fair market. Or, The iron age turned into gold. See they obey our Gracious Soveraigns words, presto they'r gone; and now these wicked rogues look like the withered face of an old hagg, but with three teeth, like to a triple gagg, never published by any pen before. By J.A. A lover of his countryes welfare.</title>
+                  <author>J. A.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Mills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Restoration, 1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168949:1" rendition="simple:additions"/>
+            <p>We have brought our <hi>Hoggs</hi> to a fair <hi>Market.</hi> OR, The IRON Age Turned into GOLD.</p>
+            <q>
+               <lg>
+                  <l>See they obey our Gracious Soveraigns words,</l>
+                  <l>
+                     <hi>Preſto</hi> they'r gone; and now theſe wicked Rogues</l>
+                  <l>Look like the withered face of an Old Hagg,</l>
+                  <l>But with three teeth, like to a triple Gagg.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>Never publiſhed by any Pen before.</hi>
+            </p>
+            <p>By <hi>J. A.</hi> A lover of his Countryes welfare.</p>
+            <p>LONDON: Printed for <hi>Thomas Mills,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:168949:2"/>
+            <pb n="1" facs="tcp:168949:2"/>
+            <head>We have brought our <hi>Hoggs</hi> to a fair <hi>Market:</hi> OR, The Iron Age Turned into Gold.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heir Militia (like its Patron <hi>Mars</hi>) was the iſſue of the Mother, without the concourſe of Royal <hi>Jupiter,</hi> yet their Law it was, if they'd Vote it; though in defiance of their Funda<g ref="char:EOLhyphen"/>mentals; much like the Old <hi>Sexton,</hi> who <hi>ſwore</hi> his Clock went true, though the Sun ſaid to the contrary: But Actors muſt have their properties, and ſince the Stages were Voted down, the onely <hi>Play-houſe</hi> was at <hi>Weſtminſter,</hi> ſuitable to their Plots wear their Informers, Skippers, and Taylors; <hi>Spaniels</hi> both <hi>fit for Land and Water; Good Conſci<g ref="char:EOLhyphen"/>onable
+<pb n="2" facs="tcp:168949:3"/>Intelligence;</hi> for however <hi>Scots</hi> bill might inflame the reckoning, the boneſt Vermine had not ſo much for Li<g ref="char:EOLhyphen"/>ing as the Publick Faith.</p>
+            <p>Thus the <hi>Quixots</hi> of our late times fought with the Wind<g ref="char:EOLhyphen"/>mills of their own Heads, quail Monſters of their own ere<g ref="char:EOLhyphen"/>ation, makes Plots and then diſcovers them; as who fit<g ref="char:EOLhyphen"/>ter to Un-kennel the Fox then the Terrier that is part of him. In the next place march to their Adventurers, the Roundheads Legrand, the Rebells Romance, ſtories of a larger ſize then the ears of their Sects, able to ſtrangle the belief of a <hi>Soli fidian.</hi>
+            </p>
+            <p>Ile preſent them in their order, and firſt as a Whifler be<g ref="char:EOLhyphen"/>fore the Shew, enter one that trod the Stage with the firſt, traverſe his ground, made a Legg, and <hi>exit:</hi> The Country People took him for one that by Order of the Houſe was to <hi>dance a morris through the weſt of England.</hi> Well, he is a nim<g ref="char:EOLhyphen"/>ble Gentleman, ſet him but upon <hi>Banks</hi> his Horſe in a Sad<g ref="char:EOLhyphen"/>dle rampant, and it is a great queſtion which part of the Centaur ſhews the beſt tricks.</p>
+            <p>There was a Vote paſſing to tranſlate him with all his E<g ref="char:EOLhyphen"/>quipage into Monumental Gingerbread, but it was croſt by the Female Committee, alledging that the valour of his I<g ref="char:EOLhyphen"/>mage would bite their Children by the tongues.</p>
+            <p>This Cubit and half of Commander by the help of an In<g ref="char:EOLhyphen"/>telligencer routed his Enemies fifty miles off: It is ſtrange you will ſay, and yet it is generally beleived, he would as ſoon do it at that diſtance, as near hand. Sure it was his Sword, for which weapon ſalve was invented, that ſo wounding and healing like loving Correlates, might both work at the ſame removes: But the Squib is run to the end of the Rope; <hi>Room for the prodigie of valour, Madam Atrops</hi> in Breeches, a valiant Knight erantry, and becauſe every Mountebank muſt have his <hi>Zany,</hi> throw him in <hi>Haſilrig</hi> to ſet off the ſtory: Theſe two, <hi>like Bell and the Dragon</hi> were
+<pb n="3" facs="tcp:168949:3"/>alwayes worſhipped in the ſame Chapter; they hunt in their couples, what one doth at the Head the other ſcores up at the Heels. Thus they <hi>kill a man over and over,</hi> the one Chiming all in and the other ſtrikes up the Saints bell.</p>
+            <p>I wonder for how many lives the Lord <hi>Hopton</hi> took the Leaſe of his body: Firſt an Earl ſlue him, then <hi>W</hi>— out-killed that half a bar, and yet it was thought the ſul<g ref="char:EOLhyphen"/>len Corps would ſcarce bleed, were both theſe Man ſlayers never ſo near it: The fame goes of a <hi>Dutch</hi> Headſman, that he would do his office with ſo much eaſe and dexterity, that the Head after Execution ſhould ſtand ſtill upon the ſhoul<g ref="char:EOLhyphen"/>ders: it was well Sir <hi>W</hi>— Knight was not Probationer for the place; thus the Artificers of Death could kill the Man without wounding the Body, like Lightning that melts the Sword and never ſinges the Scabord.</p>
+            <p>This is the Valiant Heroe whoſe Miſtreſs was the Con<g ref="char:EOLhyphen"/>queror, this is the Cities Champion, and the Conquerours delight: Tranſlate but the Scene to <hi>Round way-down;</hi> there <hi>Haſilrigs</hi> Lobſters were turned into Crabs and crawled back<g ref="char:EOLhyphen"/>wards; then poor Sir <hi>John</hi> ran to his Lady for a uſe of con<g ref="char:EOLhyphen"/>ſolation.</p>
+            <q>
+               <p>But the Conquerors were weary of the Arm of Fleſh, and now begins an <hi>Hoſana</hi> to <hi>Cromwel,</hi> one that beat up his Drums clean through the Old Teſtament; you might learn the Genealogie of our Saviour, by the names in his Regiment. The Muſter-maſter uſed no other <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt then the firſt Chapter in <hi>Matthew.</hi>
+               </p>
+               <lg>
+                  <l>Come keen <hi>Traytors</hi> with your <hi>Badgers feet,</hi>
+                  </l>
+                  <l>And <hi>Badger</hi>-like, bite till your feet do meet:</l>
+                  <l>Help ye tart <hi>Satiriſts</hi> to imp my rage,</l>
+                  <l>VVith all the <hi>Scorpions</hi> that ſhould have whipt that Age.</l>
+                  <l>
+                     <hi>Traytors</hi> are like <hi>Witches;</hi> do but whet you Pen.</l>
+                  <pb n="4" facs="tcp:168949:4"/>
+                  <l>Scratch till the blood come; they'l not hurt you then,</l>
+                  <l>Now as the <hi>Martyrs</hi> were inforc't to take</l>
+                  <l>The ſhapes of Beaſts, like Hypocrites, at ſtake,</l>
+                  <l>Ile bait my <hi>Traytor</hi> ſo, yet not cheat your Eyes,</l>
+                  <l>A <hi>Traytor</hi> within a Beaſt is no Diſguiſe.</l>
+               </lg>
+            </q>
+            <p>With what face could they object to the <hi>King,</hi> the bring<g ref="char:EOLhyphen"/>ing in of Farriners, ween themſelves entertained ſuch an Army of Hebrews? The Traytor <hi>Cromwel</hi> was never ſo valourous as when he was making Speeches for Aſſociation, which nevertheleſs he did ſomewhat ominouſly with his Neck awry, holding up his Ear as if he had expected <hi>Ma<g ref="char:EOLhyphen"/>homets Pidgeon</hi> to have come and promp him. He ſhould be a Bird of <hi>prey</hi> too by his bloody-beak; his <hi>Noſe</hi> was able to try a young <hi>Eagle,</hi> whether ſhe was lawfully begotten: but all is not Gold that gliſters; what we wonder at in the reſt of them was naturally in him, <hi>to kill without blood ſhed.</hi> For moſt of his Trophies were in a Church window, when a Looking-glaſs would have ſhewed him more ſuperſtition; He was ſo perfect a hater of Images, that he had defaced Gods in his own countenance: If he deal with men, tis when he takes them napping in an Old Monument; then down goes <hi>duſt</hi> and <hi>aſhes;</hi> and the ſtouteſt <hi>Cavaliers</hi> is no better. <hi>O brave Oliver! Times voider.</hi> Subſizer to Worms, in whom <hi>death,</hi> that formerly devoured our <hi>Anceſtors</hi> now <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hew the Cud. He ſaid Grace once, as if he would have fallen aboard with the Marqueſs of <hi>Newcaſtle,</hi> and the In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elligence gave you his bill of fare, but it proved a running banquet, as appeared by the ſtory: Believe him as he whi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tles to his <hi>Cambridge teem of Committee-men,</hi> and he doth wonders; but Holy men (like the Holy Language) muſt be read backwards. They did rifle Colledges to promote Learning, and pulled down Churches for dification. But Sacriledge is intailed upon him: There muſt be a <hi>Cromwel</hi>
+               <pb n="5" facs="tcp:168949:4"/>for Cathedrals, as well as Abbeys; <hi>A ſecure Sinner,</hi> whoſe offence carries its pardon in its mouth; for how could he be hanged for Church robbery, which gives it ſelf the bene<g ref="char:EOLhyphen"/>fit for the Clergie.</p>
+            <p>But for all <hi>Cromwels Noſe did wear the Dominical Letter,</hi> compared to <hi>M</hi>— otherwiſe called the Brewers Copper, he was but like the <hi>Virgils</hi> to an Holy-day. This was the Man of God; <hi>ſo Sanctified a Thunder-bolt,</hi> that a Divine in a pro<g ref="char:EOLhyphen"/>portionably blaſpheming to his Lord of Hoſts, would ſtile him the <hi>Arch-Angel, giving Battle to the Devil.</hi>
+            </p>
+            <p>They ageeed in nothing, but they were all <hi>Adamits</hi> in underſtanding: It is the ſigne of a Coward to wink and fight; but I wonder from whence <hi>Lambert</hi> and <hi>Harriſons</hi> purity firſt proceeded; it was not by tradition: If they were begotten Saints, it was by equivocal Generation; for the Devil in the Father turned Jeſuites in the Sons ſo that their Godlineſs was of the ſame Parentage with good Laws, both extracted out of bad Manners, and would they alter the Scripture, as they attempted the Creed, they might vary the Text, and ſay to Corruption, <hi>Thou art our Father.</hi> Bar<g ref="char:EOLhyphen"/>barous Rebells, who will be revenged upon all Learning, becauſe their Treaſon is beyond the mercy of the Book.</p>
+            <p>There were more Puppets that moved by the name of <hi>Champions</hi> as, <hi>Scot</hi> and <hi>Thurloe,</hi> two of <hi>Nols</hi> Petty-toes ſuch ſniveling Cowards, that it is a favour to call them ſo: had <hi>Thurloe</hi> been to fight with his Teeth, as in other things he re<g ref="char:EOLhyphen"/>ſembles the <hi>Beaſt,</hi> he would have ods of any man at the weapon: O he's a terrible ſlaughter-man at a Thankſ-giv<g ref="char:EOLhyphen"/>ing dinner had he been <hi>Cannibal,</hi> to have eaten thoſe that he vanquiſht, his Gut would have made him valient.</p>
+            <p>And now I ſpeak of reformation, <hi>vous evez Fox,</hi> the Tin<g ref="char:EOLhyphen"/>ker, the livelieſt Embleme of it that may be; for what did that Rump Parliament ever go about to reform, but Tin<g ref="char:EOLhyphen"/>ker-wife, in mending one hole they made three.</p>
+            <pb n="6" facs="tcp:168949:5"/>
+            <p>I will cloſe up all thus, the Victoryes of the Rebels, were like the Magicall Combate of <hi>Apuleius,</hi> who thinking he had ſlain all three of his enemies, found them at laſt but a tri<g ref="char:EOLhyphen"/>umphirate of Bladers. Such and ſo empty are the impoſt<g ref="char:EOLhyphen"/>humated fancies, ſo many Bladers of their own blowing.</p>
+            <q>
+               <lg>
+                  <l>Like to <hi>Don Quixots</hi> Roſary of ſlaves</l>
+                  <l>Strung on a Chain; a murnivall of knaves</l>
+                  <l>Packt in a trick like <hi>Gipſies</hi> when they ride</l>
+                  <l>Or, like Colleagues, which ſit all of a ſide,</l>
+                  <l>So the vain <hi>Satyriſt</hi> ſtand all a row.</l>
+                  <l>As hollow Teeth on a Lute ſtring ſhow.</l>
+               </lg>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
